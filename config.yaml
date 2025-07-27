@@ -1,4 +1,4 @@
-name: "Yll Kryeziu"
+name: "YLL KRYEZIU"
 description: "Computer Science student at TUM and Software Engineer Working Student at Porsche Informatik."
 
 social_links:
@@ -23,7 +23,7 @@ education:
   - title: "BSc. Computer Science"
     institution: "Technical University of Munich"
     period: "Oct 2022 - Present"
-    details: "Software Engineering, Database Systems, Data Structures and Algorithms, Operating Systems, Computer Architecture"
+    details: "Software Engineering, Database Systems, Data Structures and Algorithms, Machine Learning, Deep Learning, Operating Systems, Computer Architecture"
 
 experience:
   - title: "Software Engineer Working Student"
@@ -37,7 +37,7 @@ experience:
   - title: "Teaching Assistant"
     company: "Technical University of Munich"
     period: "Oct 2023 - Oct 2024"
-    details: "Conducted weekly tutorials for 20-30 students in Software Engineering and Computer Architecture. Taught software engineerng, software patterns, REST, system design, AWS Lambda containerization, gRPC, RISC-V, low level programming, instruction set architectures, parallel programming and memory hierarchy concepts."
+    details: "Conducted weekly tutorials for 20-30 students in Software Engineering and Computer Architecture. Taught software engineering, software patterns, REST, system design, AWS Lambda containerization, gRPC, RISC-V, low level programming, instruction set architectures, parallel programming and memory hierarchy concepts."
 
 projects:
   - title: "Deep Learning for Depression Detection"
