@@ -37,11 +37,11 @@ experience:
   - title: "Teaching Assistant"
     company: "Technical University of Munich"
     period: "Oct 2023 - Oct 2024"
-    details: "Conducted weekly tutorials for 20-30 students in Software Engineering and Computer Architecture. Taught system design, AWS Lambda, gRPC, RISC-V, and memory hierarchy concepts."
+    details: "Conducted weekly tutorials for 20-30 students in Software Engineering and Computer Architecture. Taught software engineerng, software patterns, REST, system design, AWS Lambda containerization, gRPC, RISC-V, low level programming, instruction set architectures, parallel programming and memory hierarchy concepts."
 
 projects:
   - title: "Deep Learning for Depression Detection"
     period: "April 2025 - Present"
     role: "Clinical Application Project"
-    description: "Developed a hybrid CNN-GRU architecture using transfer learning (VGG16, DenseNet, EfficientNet) to classify depression severity from speech. Built data pipeline converting audio to mel spectrograms."
-    tags: ["Deep Learning", "CNN-GRU", "Transfer Learning", "Speech Analysis"] 
+    description: "Developed a hybrid CNN-LSTM architecture using transfer learning (VGG16, DenseNet, EfficientNet) to classify depression severity from speech using the Extended DAIC-WOZ dataset."
+    tags: ["Deep Learning", "CNN", "LSTM", "Transfer Learning", "Speech Analysis"] 
