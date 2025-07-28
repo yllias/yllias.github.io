@@ -43,5 +43,5 @@ projects:
   - title: "Deep Learning for Depression Detection"
     period: "April 2025 - Present"
     role: "Clinical Application Project"
-    description: "Developed a hybrid CNN-LSTM architecture using transfer learning (VGG16, DenseNet, EfficientNet) to classify depression severity from speech using the Extended DAIC-WOZ dataset."
+    description: "Created, trained and evaluated a hybrid CNN-LSTM architecture that uses transfer learning (VGG16, DenseNet, EfficientNet) on mel-spectrograms to classify depression severity from speech in clinical interviews from the Extended DAIC-WOZ dataset."
     tags: ["Deep Learning", "CNN", "LSTM", "Transfer Learning", "Speech Analysis"] 
